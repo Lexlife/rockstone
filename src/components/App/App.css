@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  width: 150vh;
+}
+
+.TextArea {
+  margin-right: 200px;
+}
+
+.CurrentTime {
+  display: flex;
+  align-items: center;
+}
